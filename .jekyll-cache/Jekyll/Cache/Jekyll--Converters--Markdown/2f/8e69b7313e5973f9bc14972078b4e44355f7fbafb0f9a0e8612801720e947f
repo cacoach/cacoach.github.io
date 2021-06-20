@@ -1,0 +1,78 @@
+I"�<p>I broke my ubuntu and had to reinstall it.While surfing the internet I found no essential software list for a developer to install.So i focussed on how to set up ubuntu for a developer in this post
+<br /><br /></p>
+
+<h2 id="sublime-text">Sublime-Text</h2>
+<p>it’s undeniable that Linux is great for programmers, and if you’re going to be doing any kind of programming or scripting at all, then you should really consider installing Sublime Text. It’s the best text editor out there and almost as good as an IDE.
+ How to install?</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo add-apt-repository ppa:webupd8team/sublime-text-3
+
+sudo apt-get update
+
+sudo apt-get install sublime-text-installer
+
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="apache-mysql-and-php">Apache, Mysql and php</h2>
+<p>The Apache web server is among the most popular web servers in the world. It’s well-documented, and has been in wide use for much of the history of the web, which makes it a great default choice for hosting a website.
+ How to install?</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install apache2
+</code></pre></div></div>
+<p><br />
+Now that we have our web server up and running, it is time to install MySQL. MySQL is a database management system. Basically, it will organize and provide access to databases where our site can store information.
+ How to install?</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> sudo apt-get install mysql-server
+</code></pre></div></div>
+<p><br /></p>
+
+<p>PHP is the component of our setup that will process code to display dynamic content. It can run scripts, connect to our MySQL databases to get information, and hand the processed content over to our web server to display.
+ How to install?</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="nodejs">NodeJs</h2>
+<p>Node.js is a JavaScript runtime built on Chrome’s V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. 
+ How to install?</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> sudo apt-get install -y nodejs
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="vim">Vim</h2>
+<p>Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as “vi” with most UNIX systems and with Apple OS X. 
+ How to install?</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install vim
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="terminator">Terminator</h2>
+<p>Terminator is a GPL terminal emulator.It is the most popular terminal emulator
+How to install?</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo add-apt-repository ppa:gnome-terminator
+
+sudo apt-get update
+
+sudo apt-get install terminator
+</code></pre></div></div>
+<p><br /><br /></p>
+
+<h2 id="oh-my-zsh">Oh my ZSH</h2>
+<p>Once installed, your terminal shell will become the talk of the town or your money back! With each keystroke in your command prompt, you’ll take advantage of the hundreds of powerful plugins and beautiful themes. Strangers will come up to you in cafés and ask you, “that is amazing! are you some sort of genius?”<br />
+Finally, you’ll begin to get the sort of attention that you have always felt you deserved. …or maybe you’ll use the time that you’re saving to start flossing more often.
+How to install?</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install zsh
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+</code></pre></div></div>
+<p><br /><br />
+If you have some doubts or error comment below</p>
+
+:ET

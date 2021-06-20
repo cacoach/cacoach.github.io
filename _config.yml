@@ -1,54 +1,54 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Utsav Mangal's Blog"
-description: "Utsav Mangal,blog and portofolio"
-keywords: "Utsav,Mangal,blog,programming"
+title: "CA Coach"
+description: "CA Coach, Coaching Center"
+keywords: "CA,Coach,Coaching,Institute,Accounts,Learning,Destination,Law,Maths,Economics"
 
 baseurl: "/"
-url: "http://www.mangalutsav.xyz"
+url: "https://cacoach.github.io/"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+# img_path: 'http://www.jack003.com/static/img/blog'
 
 # author
 author:
-  name: 'Utsav'
-  first_name: 'Utsav'
-  last_name: 'Mangal'
-  email: 'mangalutsav1@gmail.com'
-  facebook_username: 'Mangalutsav'
-  github_username: 'Mangalutsav'
-  head_img: 'static/img/landing/Utsav.jpg'
+  name: 'CA Coach'
+  first_name: 'CA'
+  last_name: 'Coach'
+  email: 'cacoach@outlook.in'
+  # facebook_username: 'Mangalutsav'
+  # github_username: 'Mangalutsav'
+  # head_img: 'static/img/landing/Utsav.jpg'
 
 # landing page
 landing:
   home: 'Home'
   about: 'About'
   career: 'Career'
-  skills: 'Skills'
+  skills: 'Subjects'
   projects: 'Project'
   contact: 'Contact'
 
 # my projects
 project:
   SigIntChecker:
-    name: 'SigIntChecker'
-    url: '/Mangalutsav/Check_SIGINT'
-    img: 'static/img/landing/SigIntChecker.png'
+    name: 'Ankit Babbar'
+    # url: '/Mangalutsav/Check_SIGINT'
+    img: 'static/img/landing/person.png'
   Stroom:
-    name: 'Stroom'
-    url: '/Hareshkh/Stroom'
-    img: 'static/img/landing/Stroom.jpg'
+    name: 'Sampurna Narula'
+    # url: '/Hareshkh/Stroom'
+    img: 'static/img/landing/person.png'
   Youtoo:
     name: 'Youtoo'
-    url: '/Mangalutsav/Youtoo'
-    img: 'static/img/landing/Youtoo.png'
+    # url: '/Mangalutsav/Youtoo'
+    img: 'static/img/landing/person.png'
   Yolog:
     name: 'Yolog'
-    url: '/Karandesai-96/Yolog'
-    img: 'static/img/landing/yolog.jpg'
+    # url: '/Karandesai-96/Yolog'
+    img: 'static/img/landing/person.png'
 
 # blog index
 index:
@@ -60,9 +60,9 @@ index:
   # life: 'Life'
 
 # comment
-disqus:
-  name: Kraken
-  public_key: FTvHZuuS0XcH4XZHNWzASYpEPQ2VHnGrtk7NRPNKMpKnjZaSaRDmVImMZ4HLsPnF
+# disqus:
+#   name: Kraken
+#   public_key: FTvHZuuS0XcH4XZHNWzASYpEPQ2VHnGrtk7NRPNKMpKnjZaSaRDmVImMZ4HLsPnF
 
 # google analytics
 ga:

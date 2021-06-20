@@ -1,39 +1,39 @@
 {
   "website":{
-    "title": "Utsav's blog"
+    "title": "CA Coach"
   },
   "nav":{
     "home": "Home",
     "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
+    "skills": "Subjects",
+    "projects": "Team",
+    "career": "Course",
     "contact": "Contact"
   },
   "about_me":{
-    "about_me": "About Me",
+    "about_me": "About Us",
     "des": " I am a student at IITR, begin development with python and JS. Life is a continuous learning process, so I spend most of my time learning ,developing and being a Panda ."    
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "Subjects"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "SigIntChecker": "SigInt Checker checks for accidental sigint signal and ask confirmation for exit",
+    "my_projects": "Team",
+    "SigIntChecker": "SigInt Checkesssr checks for accidental sigint signal and ask confirmation for exit",
     "Stroom": "Stroom plays music in sync in all the connected devices, It uses nodejs to connect and can play in multiple rooms. It is still in development",
     "Youtoo": "Youtoo takes in the name of the query ,search the youtube for it and then download it,as simple as that.",
     "Yolog": "Beautify your git logs !, Tabulated colurfull commit history with shortened hashes"
   },
   "career":{
-    "my_career": "My Career",
-    "SDSLabs": "SDSLabs",
-    "SDSLabs_des": "I started learning about development from here only ,I learned a lot and build some cool things",
-    "SDSLabs_date": "Jan. 2016",
-    "SDSLabs_job": "Developer",
-    "pag": "PAG",
-    "pag_des": "Programming and Algorithm groups, A group to promote comptetive coding .I started my journey in Programming from here",
-    "pag_date": "Oct. 2015",
-    "pag_job": "Coder",
+    "my_career": "Course",
+    "SDSLabs": "CA Foundation Course",
+    "SDSLabs_des": "In the CA Foundation course we try to focus on learning accounting, law, mathematics, economics and business.",
+    "SDSLabs_date": "",
+    "SDSLabs_job": "",
+    "pag": "Mock Test Series",
+    "pag_des": "Weekly mock test series so to keep track of your performance and learning.",
+    "pag_date": "",
+    "pag_job": "",
     "iithbt": "IITHbt",
     "iithbt_des": "In IITHbt I joined finance department but later switched to Web development ,By the way IITHbt is a magazine.",
     "iitthbt_date": "Sep. 2015",
@@ -44,7 +44,11 @@
     "college_job": "Student"
   },
   "contact":{
-    "my_contact": "Contact me"
+    "my_contact": "Contact us"
+  },
+  "schedule":{
+    "schedule": "Schedule"
   }
+
 
 }
